@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan Shovit</h1>
-<h3 align="center">A lover of coding from Patna, India</h3>
+<h3 align="center">A lover of coding at NIT Patna, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanshovit&label=Profile%20views&color=0e75b6&style=flat" alt="srijanshovit" /> </p>
 
