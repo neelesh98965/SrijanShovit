@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanshovit" alt="srijanshovit" /></a> </p>
 
-- 🔭 I’m currently working on [Ride-Sharing App](https://github.com/gdscnitp/Ride-Sharing-App)
+- 🔭 I’m currently working on making Android Apps with Compose
 
-- 🌱 I’m currently learning **Backend Web Development, Flutter Development & Deep Learning**
+- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 
-- 💬 Ask me about **Web Development, Flutter Development & Machine Learning**
+- 💬 Ask me about **Web Development, App Development & Machine Learning**
 
 - 📫 How to reach me **srijanshovit@gmail.com**
 
