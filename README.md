@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shovitsrijan" target="blank"><img src="https://img.shields.io/twitter/follow/shovitsrijan?logo=twitter&style=for-the-badge" alt="shovitsrijan" /></a> </p>
 
-- 🔭 I’m currently working on my Competitive Programming Skills
+- 🔭 I’m currently working on learning blockchain and building solutions
 
-- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
+- 🌱 I’m currently learning **Near , Solana, Polkadot**
 
 - 💬 Ask me about **Anything in Software Engineering**
 
